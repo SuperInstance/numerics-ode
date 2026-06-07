@@ -1,0 +1,12 @@
+[package]
+name = "numerics-ode"
+version = "0.1.0"
+edition = "2021"
+description = "Research-grade ODE solvers: Euler, RK4, Adams-Bashforth (2-step), Dormand-Prince (RK45 adaptive) — pure Rust, no dependencies"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/numerics-ode"
+keywords = ["ode", "numerical", "solver", "runge-kutta", "differential"]
+categories = ["mathematics", "science", "algorithms"]
+authors = ["SuperInstance"]
+
+[dev-dependencies]
